@@ -1,0 +1,47 @@
+User Documentation for a Restaurant QR Menu
+Introduction:
+
+This document provides user instructions and information for a restaurant QR menu created using HTML, CSS, JavaScript, Laravel, and MySQL. This document offers step-by-step guidance to learn how to use the menu and complete the process of ordering from the menu.
+
+Target Audience:
+
+This document is designed for restaurant customers and others who want to use the QR menu.
+
+Document Scope:
+
+This document covers the following topics:
+
+Accessing the QR menu
+Navigating the menu
+Frequently Asked Questions (FAQ)
+User Documentation:
+
+Accessing the QR Menu:
+
+Open the camera on your smartphone.
+Locate the QR code on the menu or table.
+Scan the QR code.
+The menu will open in your web browser.
+Navigating the Menu:
+
+Use the tabs at the top to switch between different categories in the menu.
+Click on an item to view it.
+
+Frequently Asked Questions (FAQ):
+
+I can't scan the QR code.
+
+Make sure your phone's camera is turned on and you have a clear view of the QR code.
+Try a different scanner app.
+I can't find an item on the menu.
+
+Use the search bar to search for the item.
+Try searching in a different category.
+
+User Support:
+
+If you have any questions or problems, please do not hesitate to contact the restaurant.
+
+Note:
+
+This document can be customized according to the specific requirements of my project.

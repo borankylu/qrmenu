@@ -1,0 +1,66 @@
+ USABİLİTY TEST
+
+**Usability Testing Scenarios:**
+
+**User Type:** Restaurant Customer
+
+**Goal:** To order an item from the menu
+
+**Steps:**
+
+1. The user scans the QR code and opens the menu.
+2. The user finds the item they want on the menu.
+3. The user reviews the item's details and options.
+
+**User Type:** Restaurant Customer
+
+**Goal:** To check their order history
+
+**Steps:**
+
+1. The user clicks the "My Orders" tab in the menu.
+2. The user views their past orders.
+3. The user views the details of a specific order.
+
+**User Type:** Restaurant Customer
+
+**Goal:** To be unable to find an item on the menu
+
+**Steps:**
+
+1. The user searches for the item using the search bar in the menu.
+2. The user tries searching in different categories.
+3. The user is unable to find the item and looks for contact information for assistance.
+
+**Usability Testing Steps:**
+
+**1. Identify your target audience:** Who will you be conducting your usability testing with? Determine the demographics of your target audience, such as age, gender, technical literacy, and experience with restaurant menus.
+
+**2. Find test participants:** Find a group of people who represent your target audience. You can ask friends, family, or colleagues for help, or you can find test participants from online platforms.
+
+**3. Prepare the test:** Prepare the usability testing scenarios and the test environment. You can use a video camera or audio recorder to record the users' think-aloud process.
+
+**4. Conduct the test:** Have the users use the menu while thinking aloud. Observe and take notes on their actions and thoughts.
+
+**5. Analyze the data:** Identify the difficulties and errors that users encounter while using the menu.
+
+**6. Report the findings:** Prepare a report that includes the usability testing findings and recommendations.
+
+**7. Make changes based on the findings:** Make necessary changes to the menu based on the user feedback.
+
+**Usability Testing Tools:**
+
+* **User Testing Platforms:** Userlytics, TryMyUI, UserZoom
+* **Observational Tools:** Hotjar, Crazy Egg
+* **Survey Tools:** SurveyMonkey, Google Forms
+
+**Additional Tips:**
+
+* Assume that users are using the menu for the first time.
+* Observe if anything confuses or frustrates the users.
+* Keep the test sessions short and focused.
+* Provide feedback to the users after the test.
+
+**Usability testing is one of the best ways to ensure that your product or service is user-friendly. By following these steps and using these tools, you can make sure that your restaurant QR menu is user-friendly and easy to use.**
+
+**Please do not hesitate to ask me if you have any questions or need assistance.**
