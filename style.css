@@ -1,87 +1,72 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+body {
+  font-family: Georgia, serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
 
-:root{
-    --golden : #ed9614;
+.menu-title {
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
-    background-color: rgba(0, 0, 0, 0.918);
-    background-size: auto;
-    
+
+.catagories {
+  list-style: none;
+  text-align: center;
+  margin-bottom: 20px;
 }
-.menu-title{
-    margin-top: 3rem;
+
+.catagories li {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
 }
-.menu-title  span{
-    font-size: 2rem;
-    font-weight: 700;
-    width: 10%;
-    color: da;
-    border-bottom: 5px solid var(--golden);
+
+.food-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
 }
-.catagories ul {
-    display: flex;
-    list-style: none;
-    justify-content: center;
-    margin-top: 30px;
+
+.foodbox {
+  width: 300px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
-.catagories ul li {
-    margin: 10px;
-    padding: 5px 10px;
-    font-size: 1rem;
-    border: 2px solid var(--golden);
-    border-radius: 5px;
-    color: var(--golden)
+
+.c-image {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
 }
-.catagories ul li:hover{
-    background-color: var(--golden);
-    color: white;
+
+.c-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
-/* content */
-.content{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+.t-n-p {
+  padding: 10px;
 }
-.content .c-image {
-    width: 1000px;
-    height: 160px;
-    border: 3px solid var(--golden);
-    border-radius: 5px;
-}
-.content .c-image img {
-    width: 100%;
-    height: 100%;
-}
-.content .t-n-p{
-    margin-left: 20px;
-    width: 1000px;
-}
-.content .t-n-p .header{
+
+.header {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px dotted rgb(183, 172, 26), 182, 152);
-  padding: 0px 5px;
+  align-items: center;
 }
-.content .t-n-p .title {
-    font-size: 0.8rem;
-    font-weight: 600;
-    letter-spacing: 2px;
+
+.title {
+  font-size: 1.5em;
+  font-weight: bold;
 }
-.content .t-n-p .price {
-    font-size: 0.8rem;
-    font-weight: 800;
-    color: var(--golden);
-    word-spacing: 2px;
+
+.price {
+  font-size: 1em;
 }
-.content .t-n-p .des p{
-    font-size: 0.9rem;
-}
-.food-container {
-    display: none;
-}
- 
-body {background-color: #00000000;}
